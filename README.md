@@ -17,7 +17,7 @@ You can install SwiftLogger using the Swift Package Manager by adding it to your
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourgithubusername/SwiftLogger.git", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/Berkay-Disli/SwiftLogger.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
 
