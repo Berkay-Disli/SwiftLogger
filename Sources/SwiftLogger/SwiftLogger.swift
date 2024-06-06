@@ -1,6 +1,9 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
+import Foundation
+import SwiftUI
+
 public enum LogLevel: String {
     case info = "INFO"
     case warning = "WARNING"
